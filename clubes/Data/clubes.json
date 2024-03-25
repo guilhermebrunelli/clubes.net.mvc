@@ -1,0 +1,34 @@
+{
+  "imagens": [
+    {
+      "nome": "Arsenal.png",
+      "descricao": "Arsenal",
+      "pais": "Inglaterra"
+    },
+    {
+      "nome": "Barcelona.png",
+      "descricao": "Barcelona",
+      "pais": "Espanha"
+    },
+    {
+      "nome": "Liverpool.png",
+      "descricao": "Liverpool",
+      "pais": "Inglaterra"
+    },
+    {
+      "nome": "ManchesterCity.png",
+      "descricao": "Manchester City",
+      "pais": "Inglaterra"
+    },
+    {
+      "nome": "ManchesterUnited.png",
+      "descricao": "Manchester United",
+      "pais": "Inglaterra"
+    },
+    {
+      "nome": "RealMadrid.png",
+      "descricao": "Real Madrid",
+      "pais": "Espanha"
+    }
+  ]
+}

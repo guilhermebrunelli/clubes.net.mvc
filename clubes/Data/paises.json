@@ -1,0 +1,12 @@
+{
+    "paises": [
+      {
+        "nome": "Espanha",
+        "clubes": ["Real Madrid", "Barcelona"]
+      },
+      {
+        "nome": "Inglaterra",
+        "clubes": ["Manchester United", "Liverpool", "Manchester City", "Arsenal"]
+      }
+    ]
+  }
