@@ -1,12 +1,22 @@
-{
-    "paises": [
-      {
-        "nome": "Espanha",
-        "clubes": ["Real Madrid", "Barcelona"]
-      },
-      {
-        "nome": "Inglaterra",
-        "clubes": ["Manchester United", "Liverpool", "Manchester City", "Arsenal"]
-      }
-    ]
-  }
+[
+     {
+        "Nome": "Brasil",
+        "Cor": "#009739"
+    },
+     {
+        "Nome": "Itália",
+        "Cor": "#FFFFFF"
+    },
+     {
+        "Nome": "França",
+        "Cor": "#28036a"
+    },
+    {
+        "Nome": "Espanha",
+        "Cor": "#C60B1E"
+    },
+    {
+        "Nome": "Inglaterra",
+        "Cor": "#808080"
+    }
+]
