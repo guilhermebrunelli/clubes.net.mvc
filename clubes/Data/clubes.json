@@ -1,34 +1,177 @@
-{
-  "imagens": [
-    {
-      "nome": "Arsenal.png",
-      "descricao": "Arsenal",
-      "pais": "Inglaterra"
-    },
-    {
-      "nome": "Barcelona.png",
-      "descricao": "Barcelona",
-      "pais": "Espanha"
-    },
-    {
-      "nome": "Liverpool.png",
-      "descricao": "Liverpool",
-      "pais": "Inglaterra"
-    },
-    {
-      "nome": "ManchesterCity.png",
-      "descricao": "Manchester City",
-      "pais": "Inglaterra"
-    },
-    {
-      "nome": "ManchesterUnited.png",
-      "descricao": "Manchester United",
-      "pais": "Inglaterra"
-    },
-    {
-      "nome": "RealMadrid.png",
-      "descricao": "Real Madrid",
-      "pais": "Espanha"
-    }
-  ]
-}
+[
+  {
+    "Numero": 1,
+    "Nome": "Palmeiras",
+    "Descricao": "O Palmeiras, oficialmente Sociedade Esportiva Palmeiras, é um dos clubes mais tradicionais do Brasil, com sede em São Paulo. O clube tem uma rica história no futebol brasileiro e é conhecido por sua forte base de torcedores.",
+    "Pais": ["Brasil"],
+    "Imagem" : "\\img\\clubes\\palmeiras.png"
+  },
+  {
+    "Numero": 2,
+    "Nome": "Corinthians",
+    "Descricao": "O Sport Club Corinthians Paulista, conhecido como Corinthians, é um dos clubes de futebol mais populares do Brasil. Localizado em São Paulo, o clube tem uma longa história e uma base de torcedores apaixonados.",
+    "Pais": ["Brasil"],
+    "Imagem" : "\\img\\clubes\\corinthians.png"
+  },
+  {
+    "Numero": 3,
+    "Nome": "São Paulo",
+    "Descricao": "O São Paulo Futebol Clube, comumente conhecido como São Paulo, é um clube de futebol profissional localizado no distrito de Morumbi, em São Paulo. O clube tem uma rica história no futebol brasileiro e é conhecido por sua forte base de torcedores.",
+    "Pais": ["Brasil"],
+    "Imagem" : "\\img\\clubes\\saopaulo.png"
+  },
+  {
+    "Numero": 4,
+    "Nome": "Flamengo",
+    "Descricao": " O  Clube de Regatas do Flamengo, mais conhecido como Flamengo, é um clube de futebol profissional com sede no Rio de Janeiro. É um dos clubes mais bem-sucedidos do Brasil e tem uma grande base de torcedores em todo o país.",
+    "Pais": ["Brasil"],
+    "Imagem" : "\\img\\clubes\\flamengo.png"
+  },
+  {
+    "Numero": 5,
+    "Nome": "Grêmio",
+    "Descricao": "O Grêmio Foot-Ball Porto Alegrense, conhecido como Grêmio, é um clube de futebol profissional com sede em Porto Alegre, no Rio Grande do Sul. O clube tem uma longa história no futebol brasileiro e é conhecido por sua apaixonada base de torcedores.",
+    "Pais": ["Brasil"],
+    "Imagem" : "\\img\\clubes\\gremio.png"
+  },
+  {
+    "Numero": 6,
+    "Nome": "Paris Saint-Germain",
+    "Descricao": "O Paris Saint-Germain, conhecido como PSG, é um dos clubes de futebol mais bem-sucedidos da França. O clube tem uma rica história e uma grande base de torcedores em todo o país. O PSG ganhou vários títulos da Ligue 1, a Copa da França e a Copa da Liga Francesa. Eles também tiveram sucesso na Europa, chegando à final da Liga dos Campeões da UEFA.",
+    "Pais": ["França"],
+    "Imagem" : "\\img\\clubes\\parissaintgermain.png"
+  },
+  {
+    "Numero": 7,
+    "Nome": "Olympique Lyonnais",
+    "Descricao": "O Olympique Lyonnais, também conhecido como Lyon, é um dos clubes de futebol mais proeminentes da França. O clube ganhou vários títulos da Ligue 1 e da Copa da França. Eles também tiveram sucesso na Europa, chegando às semifinais da Liga dos Campeões da UEFA.",
+    "Pais": ["França"],
+    "Imagem" : "\\img\\clubes\\olympiquelyonnais.png"
+  },
+  {
+    "Numero": 8,
+    "Nome": "AS Monaco",
+    "Descricao": "O AS Monaco é um clube de futebol profissional com sede no Principado de Mônaco. Eles competem na Ligue 1, a principal divisão do futebol francês. O clube ganhou vários títulos da Ligue 1 e da Copa da França.",
+    "Pais": ["França"],
+    "Imagem" : "\\img\\clubes\\asmonaco.png"
+  },
+  {
+    "Numero": 9,
+    "Nome": "Olympique de Marseille",
+    "Descricao": "O Olympique de Marseille, também conhecido como OM, é um dos clubes de futebol mais históricos da França. O clube ganhou vários títulos da Ligue 1 e da Copa da França. Eles também são o único clube francês a ganhar a Liga dos Campeões da UEFA.",
+    "Pais": ["França"],
+    "Imagem" : "\\img\\clubes\\olympiquedemarseille.png"
+  },
+  {
+    "Numero": 10,
+    "Nome": "Lille OSC",
+    "Descricao": "O Lille Olympique Sporting Club, conhecido como Lille OSC ou simplesmente Lille, é um clube de futebol profissional francês que compete na Ligue 1. O clube ganhou vários títulos da Ligue 1 e da Copa da França.",
+    "Pais": ["França"],
+    "Imagem" : "\\img\\clubes\\lilleosc.png"
+  },
+  {
+    "Numero": 11,
+    "Nome": " Real Madrid",
+    "Descricao": "O Real Madrid Club de Fútbol, conhecido como Real Madrid, é um clube de futebol profissional com sede em Madrid. O clube compete na La Liga, o principal campeonato de futebol da Espanha. O Real Madrid é um dos clubes mais bem-sucedidos do mundo, com vários títulos da La Liga e da Liga dos Campeões da UEFA.",
+    "Pais": ["Espanha"],
+    "Imagem" : "\\img\\clubes\\realmadrid.png"
+  },
+  {
+    "Numero": 12,
+    "Nome": "FC Barcelona",
+    "Descricao": "O Futbol Club Barcelona, comumente conhecido como Barcelona ou Barça, é um clube de futebol profissional com sede em Barcelona, Catalunha, Espanha. O Barcelona é um dos clubes mais bem-sucedidos do mundo, com vários títulos da La Liga e da Liga dos Campeões da UEFA.",
+    "Pais": ["Espanha"],
+    "Imagem" : "\\img\\clubes\\fcbarcelona.png"
+  },
+  {
+    "Numero": 13,
+    "Nome": "Atlético Madrid",
+    "Descricao": "O Club Atlético de Madrid, conhecido como Atlético Madrid, é um clube de futebol profissional com sede em Madrid. O Atlético Madrid tem uma longa história no futebol espanhol e é conhecido por sua apaixonada base de torcedores.",
+    "Pais": ["Espanha"],
+    "Imagem" : "\\img\\clubes\\atleticomadrid.png"
+  },
+  {
+    "Numero": 14,
+    "Nome": "Sevilla FC",
+    "Descricao": "O Sevilla Fútbol Club, mais conhecido como Sevilla, é um clube de futebol profissional com sede em Sevilha. O Sevilla tem uma rica história no futebol espanhol e é conhecido por sua forte base de torcedores.",
+    "Pais": ["Espanha"],
+    "Imagem" : "\\img\\clubes\\sevillafc.png"
+  },
+  {
+    "Numero": 15,
+    "Nome": "Valencia CF",
+    "Descricao": "O Valencia Club de Fútbol, conhecido como Valencia, é um clube de futebol profissional com sede em Valência. O Valencia tem uma longa história no futebol espanhol e é conhecido por sua apaixonada base de torcedores.",
+    "Pais": ["Espanha"],
+    "Imagem" : "\\img\\clubes\\valenciacf.png"
+  },
+  {
+    "Numero": 16,
+    "Nome": "Manchester United",
+    "Descricao": "O Manchester United Football Club, conhecido como Manchester United, é um clube de futebol profissional com sede em Manchester. O clube compete na Premier League, a principal divisão do futebol inglês. O Manchester United é um dos clubes mais bem-sucedidos do mundo, com vários títulos da Premier League e da Liga dos Campeões da UEFA.",
+    "Pais": ["Inglaterra"],
+    "Imagem" : "\\img\\clubes\\manchesterunited.png"
+  },
+  {
+    "Numero": 17,
+    "Nome": "Manchester City",
+    "Descricao": "O Manchester City Football Club, conhecido como Manchester City, é um clube de futebol profissional com sede em Manchester. O clube compete na Premier League, a principal divisão do futebol inglês. O Manchester City tem uma longa história no futebol inglês e é conhecido por sua apaixonada base de torcedores.",
+    "Pais": ["Inglaterra"],
+    "Imagem" : "\\img\\clubes\\manchestercity.png"
+  },
+  {
+    "Numero": 18,
+    "Nome": "Liverpool",
+    "Descricao": "O Liverpool Football Club, conhecido como Liverpool, é um clube de futebol profissional com sede em Liverpool. O clube compete na Premier League, a principal divisão do futebol inglês. O Liverpool é um dos clubes mais bem-sucedidos do mundo, com vários títulos da Premier League e da Liga dos Campeões da UEFA.",
+    "Pais": ["Inglaterra"],
+    "Imagem" : "\\img\\clubes\\liverpool.png"
+  },
+  {
+    "Numero": 19,
+    "Nome": "Chelsea",
+    "Descricao": "O Chelsea Football Club, conhecido como Chelsea, é um clube de futebol profissional com sede em Londres. O clube compete na Premier League, a principal divisão do futebol inglês. O Chelsea tem uma longa história no futebol inglês e é conhecido por sua apaixonada base de torcedores.",
+    "Pais": ["Inglaterra"],
+    "Imagem" : "\\img\\clubes\\chelsea.png"
+  },
+  {
+    "Numero": 20,
+    "Nome": "Arsenal",
+    "Descricao": "O Arsenal Football Club, conhecido como Arsenal, é um clube de futebol profissional com sede em Londres. O clube compete na Premier League, a principal divisão do futebol inglês. O Arsenal é um dos clubes mais bem-sucedidos do mundo, com vários títulos da Premier League e da FA Cup.",
+    "Pais": ["Inglaterra"],
+    "Imagem" : "\\img\\clubes\\arsenal.png"
+  },
+  {
+    "Numero": 21,
+    "Nome": "Juventus",
+    "Descricao": "A Juventus, oficialmente conhecida como Juventus Football Club, é um dos clubes mais bem-sucedidos da Itália, com sede em Turim. A Juventus tem uma rica história no futebol italiano e é conhecida por sua forte base de torcedores. O clube ganhou vários títulos da Serie A, a principal liga de futebol da Itália.",
+    "Pais": ["Itália"],
+    "Imagem" : "\\img\\clubes\\juventus.png"
+  },
+  {
+    "Numero": 22,
+    "Nome": "AC Milan",
+    "Descricao": " AC Milan, oficialmente conhecido como Associazione Calcio Milan, é um dos clubes de futebol mais proeminentes da Itália. O clube tem uma longa história e uma base de torcedores apaixonados. O AC Milan ganhou vários títulos da Serie A e da Coppa Italia.",
+    "Pais": ["Itália"],
+    "Imagem" : "\\img\\clubes\\acmilan.png"
+  },
+  {
+    "Numero": 23,
+    "Nome": "Inter Milan",
+    "Descricao": "O Inter Milan, oficialmente conhecido como Football Club Internazionale Milano, é um dos clubes de futebol mais bem-sucedidos da Itália. O clube tem uma rica história e uma grande base de torcedores em todo o país. O Inter Milan ganhou vários títulos da Serie A, a Coppa Italia e a Supercoppa Italiana.",
+    "Pais": ["Itália"],
+    "Imagem" : "\\img\\clubes\\intermilan.png"
+  },
+  {
+    "Numero": 24,
+    "Nome": "AS Roma",
+    "Descricao": "A AS Roma, oficialmente conhecida como Associazione Sportiva Roma, é um dos clubes de futebol mais históricos da Itália. O clube tem uma rica história no futebol italiano e é conhecido por sua forte base de torcedores. A AS Roma ganhou vários títulos da Serie A e da Coppa Italia.",
+    "Pais": ["Itália"],
+    "Imagem" : "\\img\\clubes\\asroma.png"
+  },
+  {
+    "Numero": 25,
+    "Nome": "SSC Napoli",
+    "Descricao": "O SSC Napoli, oficialmente conhecido como Società Sportiva Calcio Napoli, é um clube de futebol profissional com sede em Nápoles. O Napoli tem uma longa história no futebol italiano e é conhecido por sua apaixonada base de torcedores. O Napoli ganhou vários títulos da Serie A e da Coppa Italia.",
+    "Pais": ["Itália"],
+    "Imagem" : "\\img\\clubes\\sscnapoli.png"
+  },
+]
